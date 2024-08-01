@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\gpobonneau\\Desktop\\OperationsManagementSystem\\wwwroot\\img\\logo_almatech.webp",
+      "PackagePath": "staticwebassets\\img\\logo_almatech.webp"
+    },
+    {
       "Id": "C:\\Users\\gpobonneau\\Desktop\\OperationsManagementSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

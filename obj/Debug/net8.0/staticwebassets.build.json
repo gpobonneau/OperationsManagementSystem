@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1toaO+xli1uWJ21muoxGywrvJabZa30c4vhNh3JsnPc=",
+  "Hash": "iDCdn8CJuoXqbVZmoTsZWOwmlmJNRnfs8CRTXrjER1s=",
   "Source": "OperationsManagementSystem",
   "BasePath": "_content/OperationsManagementSystem",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\gpobonneau\\Desktop\\OperationsManagementSystem\\wwwroot\\img\\logo_almatech.webp",
+      "SourceId": "OperationsManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gpobonneau\\Desktop\\OperationsManagementSystem\\wwwroot\\",
+      "BasePath": "_content/OperationsManagementSystem",
+      "RelativePath": "img/logo_almatech.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo_almatech.webp"
     },
     {
       "Identity": "C:\\Users\\gpobonneau\\Desktop\\OperationsManagementSystem\\wwwroot\\js\\site.js",
