@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperationsManagementSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964cb9efe1a431cb951e6d2ec2128861432269cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d4d5f221a134c79a125bc81c8b46b226370b3f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperationsManagementSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperationsManagementSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
