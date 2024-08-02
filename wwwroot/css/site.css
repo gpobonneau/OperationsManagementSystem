@@ -21,6 +21,26 @@ body {
   margin-bottom: 60px;
 }
 
+.full-centered {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 100%;
+    margin: 0;
+    padding-right: calc(45% - 175px);
+    padding-left: calc(45% - 150px);
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
 .button {
     background-color: #b20062;
     border: none;

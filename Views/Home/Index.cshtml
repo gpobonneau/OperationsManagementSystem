@@ -3,25 +3,28 @@
 }
 
 
+<div class="full-centered">
 
-@if (User.Identity.IsAuthenticated)
-{
-    <div class="grid-container">
-        <div class="grid-item"><button class="button">1</button></div>
-        <div class="grid-item"><button class="button">2</button></div>
-        <div class="grid-item"><button class="button">3</button></div>
-        <div class="grid-item"><button class="button">4</button></div>
-        <div class="grid-item"><button class="button">5</button></div>
-    </div>
-}
-else
-{
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="grid-container">
+            <div class="grid-item"><button class="button">1</button></div>
+            <div class="grid-item"><button class="button">2</button></div>
+            <div class="grid-item"><button class="button">3</button></div>
+            <div class="grid-item"><button class="button">4</button></div>
+            <div class="grid-item"><button class="button">5</button></div>
+        </div>
+    }
+    else
+    {
 
-    <div class="text-center">
+        <div class="text-center">
 
-        <h1 class="display-1">Welcome</h1>
+            <h1 class="display-1">Welcome</h1>
 
-        <p>Welcome to Almatech's Operation Management System. Register <a asp-area="Identity" asp-page="/Account/Register">here</a> if you are new.</p>
+            <p>Welcome to Almatech's Operation Management System. Register <a asp-area="Identity" asp-page="/Account/Register">here</a> if you are new.</p>
 
-    </div>
-}
+        </div>
+    }
+
+</div>
