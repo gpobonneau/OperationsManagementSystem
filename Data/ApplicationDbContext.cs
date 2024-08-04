@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using OperationsManagementSystem.Models;
 
 namespace OperationsManagementSystem.Data
 {
@@ -9,5 +10,6 @@ namespace OperationsManagementSystem.Data
             : base(options)
         {
         }
+        public DbSet<OperationsManagementSystem.Models.Part> Part { get; set; } = default!;
     }
 }
